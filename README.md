@@ -1,2 +1,3 @@
 # Calimate
-Automated Oscilloscope Calibration
+
+Automated Tektronics oscilloscope calibration
